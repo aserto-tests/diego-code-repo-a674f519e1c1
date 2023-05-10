@@ -20,4 +20,5 @@ visible {
 }
 
 
-test_rule_0_0_2=true
+
+test_rule_0_0_3=true
